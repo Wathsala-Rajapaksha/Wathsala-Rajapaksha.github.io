@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/css/main.50795791.css",
-    "main.js": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/js/main.616b165c.js",
-    "static/media/React-App-netflix-clone.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
-    "static/media/Charlestown-Pizza.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
-    "static/media/Gridlinesbuilders.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
-    "static/media/olx-clone image.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/olx-clone image.887047ffbf12c447e947.png",
-    "static/media/Admin-Panel-Dashboard.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
-    "static/media/web-removebg-preview.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
-    "static/media/Web-designer-1024x821.webp": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
-    "static/media/todolist.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/todolist.13858f78acbb5bec224e.png",
-    "static/media/logor.png": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/logor.79880cc41de9b15f45b5.png",
-    "static/media/bars.svg": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/media/bars.a2e35dd5aede7934d82e.svg",
-    "index.html": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/index.html",
-    "main.50795791.css.map": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/css/main.50795791.css.map",
-    "main.616b165c.js.map": "/Wathsala-Rajapaksha/Wathsala-Rajapaksha.github.io/static/js/main.616b165c.js.map"
+    "main.css": "/static/css/main.f7413a49.css",
+    "main.js": "/static/js/main.834c9e93.js",
+    "static/media/React-App-netflix-clone.png": "/static/media/React-App-netflix-clone.77610b2c950486dbb80f.png",
+    "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
+    "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
+    "static/media/olx-clone image.png": "/static/media/olx-clone image.887047ffbf12c447e947.png",
+    "static/media/Admin-Panel-Dashboard.png": "/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logor.png": "/static/media/logor.79880cc41de9b15f45b5.png",
+    "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/index.html",
+    "main.f7413a49.css.map": "/static/css/main.f7413a49.css.map",
+    "main.834c9e93.js.map": "/static/js/main.834c9e93.js.map"
   },
   "entrypoints": [
-    "static/css/main.50795791.css",
-    "static/js/main.616b165c.js"
+    "static/css/main.f7413a49.css",
+    "static/js/main.834c9e93.js"
   ]
 }
